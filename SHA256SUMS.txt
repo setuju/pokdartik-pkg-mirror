@@ -3,4 +3,7 @@
 96ece3a2a63448871b6417be1acbb4d34ad490e3bb9a11c70da54a5816db9ddd  pkg-64e2888849d6/eBook _ _Belajar Pemrograman Python Tingkat Menengah_.pdf
 31d1f6bbaac7cf04077347446eac90fa8bedd68e763f6e80a866b5d090066430  pkg-64e2888849d6/eBook _ _Dasar-dasar Pemrograman Nodejs_.pdf
 461ce5ce816d58195fdb8e740bc8770cc6e935b9ae6eefdfdd5102386a15f77e  pkg-64e2888849d6/eBook _ _Kamus Istilah Pemrograman Komputer_.pdf
+0b9410ff038ca833298363832f937a43ff8e3bdb134e7895a0b32d7abfccf1ee  pkg-64e2888849d6/witi-ai-linux-qnm-gemma-1.0-1.x86_64.rpm
+eb39b8735845857f4e4e8f00c3e816a71fa505639376acec744b7133cf40016a  pkg-64e2888849d6/witi-ai-linux-qnm-gemma_1.0_amd64.deb
+98f409db45c890eaf21dd167727023ea70883bbe6a7012813cd0d4dd170fdb44  pkg-64e2888849d6/witi-ai-linux-qnm-gemma-1.0.tar.gz
 ff64b012b7c888d77cbfe28581cd4e51927699635487780f1116fb6e75742f8d  pkg-64e2888849d6/WiTiGemma-CPU-Setup-Win.zip

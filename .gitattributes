@@ -1,3 +1,4 @@
 pkg-64e2888849d6/*.deb filter=lfs diff=lfs merge=lfs -text
 pkg-64e2888849d6/*.rpm filter=lfs diff=lfs merge=lfs -text
 pkg-64e2888849d6/*.zip filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
