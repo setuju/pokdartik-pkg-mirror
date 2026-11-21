@@ -1,8 +1,6 @@
-e158e53f867fe564c08c8dfe08fe02f1771176f837e53475980a0568a3eb62c7  pkg-64e2888849d6/Aplikasi WiTi AI menggunakan C_C++ dan Framework QT DEB.deb
-a5e36d61af69550e770f3eaea35749f083876dcac4f01cb78355d6ff5532f793  pkg-64e2888849d6/Aplikasi WiTi AI menggunakan C_C++ dan Framework QT RPM.rpm
-fb4dd627600e961a1711b7a232f62a64b3f837866e09d261b22021234b5aea21  pkg-64e2888849d6/Aplikasi WiTi AI menggunakan C_C++ dan Framework QT Untuk OS MsWin.zip
+4969c01fcee68b4e062879d0291221e01aa6a0974635b1651ed77c3e0d68d437  pkg-64e2888849d6/eBook _ _Belajar Pemrograman Python_.pdf
 1ade4e792ec0bf01eba4dcedbd0f868f4daa72adbfd5e691dfab28b721f3fbc3  pkg-64e2888849d6/eBook _ _Belajar Pemrograman Python Tingkat Mahir_.pdf
 96ece3a2a63448871b6417be1acbb4d34ad490e3bb9a11c70da54a5816db9ddd  pkg-64e2888849d6/eBook _ _Belajar Pemrograman Python Tingkat Menengah_.pdf
-4969c01fcee68b4e062879d0291221e01aa6a0974635b1651ed77c3e0d68d437  pkg-64e2888849d6/eBook _ _Belajar Pemrograman Python_.pdf
 31d1f6bbaac7cf04077347446eac90fa8bedd68e763f6e80a866b5d090066430  pkg-64e2888849d6/eBook _ _Dasar-dasar Pemrograman Nodejs_.pdf
 461ce5ce816d58195fdb8e740bc8770cc6e935b9ae6eefdfdd5102386a15f77e  pkg-64e2888849d6/eBook _ _Kamus Istilah Pemrograman Komputer_.pdf
+ff64b012b7c888d77cbfe28581cd4e51927699635487780f1116fb6e75742f8d  pkg-64e2888849d6/WiTiGemma-CPU-Setup-Win.zip
